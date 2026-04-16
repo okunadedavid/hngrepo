@@ -16,7 +16,7 @@ http://35.177.25.3
 - Keep service alive using pm2
 
 ## Endpoints
-Get / - should return "app is running"
-Get /health - should return "healthy"
-Get /me - should return "name": "David Okunade", "email": "okunadedavid4@gmail.com", "github": "https://github.com/okunadedavid"
+- Get / - should return "app is running"
+- Get /health - should return "healthy"
+- Get /me - should return "name": "David Okunade", "email": "okunadedavid4@gmail.com", "github": "https://github.com/okunadedavid"
 
